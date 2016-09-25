@@ -11,7 +11,7 @@ public class RemoveElement {
 		}
 	}
 
-	public static int removeElement(int[] nums, int val) {//mytest
+	public static int removeElement(int[] nums, int val) {
 		int len = nums.length;
 		int i = 0, j = len - 1;
 		int temp;
